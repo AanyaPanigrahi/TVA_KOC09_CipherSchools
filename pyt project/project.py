@@ -1,5 +1,5 @@
 
-# Python Project: Clock Angle Projection
+# Python Project: Clock Angle Project
 # Function to calculate angle between hour hand and minute hand
 
 print("Find the angle between hour hand and minute hand by inserting the time")
